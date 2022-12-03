@@ -21,14 +21,14 @@
 </p>
 
 <hr/>
-
-<br><br><br><br>
+<br>
 Last Edited on: 03/12/2022
-
-
-:fire: My Stats :
+<br><br><br><br><br>
+<div align="center">
+:fire: My Stats :<br><br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisbspro)](https://git.io/streak-stats)
+  </div>
 <!---
 Chrisbspro/Chrisbspro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
